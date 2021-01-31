@@ -1,0 +1,8 @@
+{
+  "name": "@akryum/md-icons-svg",
+  "version": "1.0.0",
+  "description": "Material design icons in SVG format",
+  "publishConfig": {
+    "access": "public"
+  }
+}
